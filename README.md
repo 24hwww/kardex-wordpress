@@ -1,2 +1,2 @@
-# kardex-wordpress
-Inventario24.online / Kardex para Wordpress
+# Kardex Wordpress / Woocommerce
+## Inventario24.online / Kardex para Wordpress
